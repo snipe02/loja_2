@@ -1,0 +1,323 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "KIT EGEO BLUE",
+        "imagen": "./img/abrigos/06.jpeg",
+        "categoria": {
+            "nombre": "perfumes ",
+            "id": "abrigos"
+        },
+        "precio": 159.91
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "KIT MEN",
+        "imagen": "./img/abrigos/07.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 134.91
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "KIT QUASER",
+        "imagen": "./img/abrigos/08.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 144.91
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "KIT ABRO",
+        "imagen": "./img/abrigos/09.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 182.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT LIZ",
+        "imagen": "./img/abrigos/10.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 159.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT CONNEXION",
+        "imagen": "./img/abrigos/11.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 142.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT PORTINARI",
+        "imagen": "./img/abrigos/12.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 212.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT CONNEXION",
+        "imagen": "./img/abrigos/13.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 142.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT CELEBRE MASC",
+        "imagen": "./img/abrigos/14.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 99.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT MALBEC",
+        "imagen": "./img/abrigos/15.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 304.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT  ZAAD",
+        "imagen": "./img/abrigos/16.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 286.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT  COFEE MAN",
+        "imagen": "./img/abrigos/17.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 236.91
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "KIT  MALBEC PREMIUM",
+        "imagen": "./img/abrigos/18.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 369.91
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "KIT DE CALCINHAS COM 3 ALGOÃO",
+        "imagen": "./img/camisetas/09.jpeg",
+        "categoria": {
+            "nombre": "CALSINHAS DA DIAMANTES DISPONIVEIS",
+            "id": "camisetas"
+        },
+        "precio": 129.99
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "KIT DE CALCINHAS COM 4 ALGOÃO",
+        "imagen": "./img/camisetas/10.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 159.99
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "KIT DE CALCINHAS COM 7 ALGOÃO",
+        "imagen": "./img/camisetas/11.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 159.99
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "KIT DE CALCINHAS COM 6 ALGOÃO",
+        "imagen": "./img/camisetas/12.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 155
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "KIT DE CALCINHAS COM 5 ALGOÃO",
+        "imagen": "./img/camisetas/13.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "KIT DE CALCINHAS COM 7 ALGOÃO",
+        
+        "imagen": "./img/camisetas/14.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 160
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "KIT DE CALCINHAS COM 7 ALGOÃO",
+        "imagen": "./img/camisetas/15.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "KIT DE CALCINHAS COM 7 ALGOÃO",
+        "imagen": "./img/camisetas/16.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "KIT DE CALCINHAS COM 7 ALGOÃO para criança",
+        "imagen": "./img/camisetas/17.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "KIT DE CALCINHAS COM 5 ALGOÃO ",
+        "imagen": "./img/camisetas/18.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "KIT DE CALCINHAS COM 4 ALGOÃO",
+        "imagen": "./img/camisetas/19.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "KIT DE CALCINHAS COM 4 ALGOÃO ",
+        "imagen": "./img/camisetas/20.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 160
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "KIT DE CALCINHAS COM 3 ALGOÃO ",
+        "imagen": "./img/camisetas/21.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 160
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "KIT DE CALCINHAS COM 3 ALGOÃO",
+        "imagen": "./img/camisetas/22.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 200
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "calça",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "calça",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "calça",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "calça",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 110
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "calça",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "calça",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "calças disponiveis",
+            "id": "pantalones"
+        },
+        "precio": 110
+    }
+]

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>pague com pix</title>
+  <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+</head>
+<body>
+  <h1>PAGUE COM PIX</h1>
+
+  <!-- Elemento HTML onde o código QR será exibido -->
+  <div id="qrCode"></div>
+  <h1>boa sorte com sua compras</h1>
+  <script>
+    // Dados do código QR
+    var textoQR = "Hello, World!"; // Texto a ser codificado no QR
+    
+
+    // Cria um elemento de código QR
+    var qrCodeElement = document.getElementById("qrCode");
+    var qrCode = new QRCode(qrCodeElement, {
+      text: textoQR,
+      width: 128,
+      height: 128
+    });
+  </script>
+</body>
+</html>
